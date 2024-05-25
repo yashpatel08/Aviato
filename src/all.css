@@ -373,8 +373,9 @@
 
     .card{
         padding-left: 2vh;
-        display: grid;
-        grid-template-columns: repeat(2,1fr);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;        
     }
 
     .cards{
@@ -488,7 +489,7 @@
         border: 1px solid;
         transition: all 0.3s ease;
         background-color: #eff7ff;
-        margin-left: 20vh;
+        margin-left: 18vh;
     }
 
     .part{
