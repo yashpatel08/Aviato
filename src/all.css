@@ -481,6 +481,10 @@
 
     }
 
+    .service{
+        width:50vh;
+    }
+
     .toogle{
         display: block;
         width: 4vh;
