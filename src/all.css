@@ -367,7 +367,8 @@
 
     .card-item{
         margin-left: 0;
-        width: 23vh;
+        width: 40vh;
+        margin-left: 10vh;
         height: 46vh;
     }
 
