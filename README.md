@@ -1,5 +1,5 @@
 # Buisness Website 
-Welcome. This repository contains the source code and documentation for the Aviato Consulting business website, created as a project for showing my work for internship opportunities. Aviato Consulting is an IT service consultancy focused on leveraging the best of technology to solve business problems.
+Welcome. This repository contains the source code and documentation for the Aviato Consulting business website, created as a project for showing my work for internship opportunities. Aviato Consulting is an IT service consultancy focused on leveraging the best of technology to solve business problems . This website is responsive you can try on mobile.
 
 ## Check the live link -  [Aviato Consulting](https://aviator-omega.vercel.app/)
 
